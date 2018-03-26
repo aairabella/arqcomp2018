@@ -59,7 +59,10 @@ for k in 0 to 1 loop
 
             suma := std_logic_vector(to_unsigned(i + j + k, (8 + 1)));
         
-            end loop; end loop; end loop;
+            end loop; 
+        end loop; 
+
+    end loop;
 
 end process;
 end architecture A1;
