@@ -61,7 +61,6 @@ for k in 0 to 1 loop
         
             end loop; 
         end loop; 
-
     end loop;
 
 end process;
