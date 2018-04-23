@@ -16,3 +16,4 @@
 
 `git checkout -b <nombre_del_branc>` crear un nuevo branch
 
+`git push --set-upstream origin <nombre_del_branch>` para que me cree el correspondiente branch en el origin y poder pushear. 
