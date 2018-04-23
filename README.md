@@ -7,7 +7,8 @@
 ## Como correr una simulación:
 
 
-`signal_running() {
+```
+signal_running() {
   for i in /var/run/tinc.*pid; do
     if [ -f "$i" ]; then
       head -1 $i | while read pid; do
@@ -15,4 +16,5 @@
       done
     fi
   done
-}`
+}
+```
