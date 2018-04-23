@@ -21,3 +21,4 @@ begin
     C_o <= (A_i and B_i) or (C_i and (A_i or B_i));
 
 end architecture fa_arch;
+
