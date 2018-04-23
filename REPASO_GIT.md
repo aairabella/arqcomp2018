@@ -1,5 +1,3 @@
-# 1) git repaso
-
 ## MarkDown
 
 `#` se usa para títulos. `##` un título de menor jerarquía. Y así...
@@ -16,8 +14,5 @@
 
 `git pull` sirve para traerme todo lo último que está en ese branch
 
-
-# 2) subir codigos
-
-# 3) establecer la forma de entrega de trabajos prácticos 
+`git checkout -b <nombre_del_branc>` crear un nuevo branch
 
