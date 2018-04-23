@@ -2,7 +2,7 @@
 
 `#` se usa para títulos. `##` un título de menor jerarquía. Y así...
 
-## Git
+## Git Comandos Útiles
 
 `git status` se usa para ver el estado actual del respositorio, respecto del commit anterior. 
 
@@ -17,3 +17,8 @@
 `git checkout -b <nombre_del_branc>` crear un nuevo branch
 
 `git push --set-upstream origin <nombre_del_branch>` para que me cree el correspondiente branch en el origin y poder pushear. 
+
+## Interprete de comandos recomendado
+
+`zsh` con plugin `oh-my-zsh` 
+
