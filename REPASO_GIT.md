@@ -18,4 +18,7 @@
 
 `git push --set-upstream origin <nombre_del_branch>` para que me cree el correspondiente branch en el origin y poder pushear. 
 
-## Git Merge
+## Interprete de comandos recomendado
+
+`zsh` con plugin `oh-my-zsh` 
+
