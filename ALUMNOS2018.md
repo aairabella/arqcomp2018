@@ -1,7 +1,7 @@
 # Alumnos Inscriptos 2018
 
 | Registro | Alumno |
-| :-: | :-:| 
+| :-: | - | 
 | 3009014 | CHAVEZ, MAURO CÉSAR |
 | 3004806 | DUPERRE, CARLOS EZEQUIEL |
 | 3004409 | FRANCALANCIA, MARIANO GUIDO |
